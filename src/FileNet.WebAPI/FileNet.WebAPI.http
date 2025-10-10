@@ -1,0 +1,6 @@
+@FileNet.WebAPI_HostAddress = http://localhost:5149
+
+GET {{FileNet.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
